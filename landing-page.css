@@ -1,7 +1,21 @@
 body, html {
-    margin: 30px;
+    margin: 5px;
     height: 100%;
     width: 100%;
-    background-color: rgb(172, 171, 171);
+    
     
 }
+
+.col {
+    /* border: 1px solid black; */
+    height: 50;
+    background-color: rgb(221, 238, 147);
+    
+}
+
+.cl2 {
+    height:70%
+}
+
+
+    
